@@ -1,0 +1,4 @@
+
+
+# This is a dataset of house prices based on number of bedrooms.
+# decimal point is used to represent partial bedrooms.
